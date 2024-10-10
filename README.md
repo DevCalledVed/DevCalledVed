@@ -54,4 +54,4 @@ I am open to commissions for development work.
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevCalledVed&show_icons=true&theme=radical)
