@@ -26,7 +26,7 @@ I love building creative solutions and contributing to interesting projects. Whe
     <td><img src="https://avatars.githubusercontent.com/u/1063488?s=200&v=4" alt="Luau" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg" alt="Replit" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/windows-original.svg" alt="Linux" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></td>
   </tr>
   <tr>
     <td>HTML</td>
