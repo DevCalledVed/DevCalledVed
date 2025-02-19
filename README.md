@@ -9,7 +9,7 @@ I'm a passionate developer with experience in various fields including:
 - **Cybersecurity**
 - **Competitive Porgramming**
 
-I love building creative solutions and contributing to interesting projects. Whether it's working on backend logic or designing fun Roblox experiences, I thrive on bringing ideas to life.
+I love building creative solutions and contributing to interesting projects. Whether it's trying to create a new algorithm, crack a bug in a website, or designing fun Roblox experiences, I thrive on bringing ideas to life.
 
 ---
 
