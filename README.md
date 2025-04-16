@@ -48,7 +48,7 @@ I love building creative solutions and contributing to interesting projects. Whe
 
 - **Proxy Creation**: I make school unblockers so that kids who don't have their own devices are able to play video games (I make sure that everything they go on is appropriate tho).
 - **Discord Bots**: I build feature-rich Discord bots to automate tasks and enhance server functionality.
-- **Roblox Development**: I develop immersive Roblox experiences using Luau scripting, with a focus on engaging gameplay mechanics. My games have recieved over over **5.1 MILLION visits**. I also have 20k visits on Scratch lol.
+- **Roblox Development**: I develop immersive Roblox experiences using Luau scripting, with a focus on engaging gameplay mechanics. My games have recieved over over **6.1 MILLION visits**. I also have 20k visits on Scratch lol.
 - **Cybersecurity**: I am a bug bounty hunter and have created and open sourced HTMLi scanner. See my repository: **HACHEP**
 - **Competitive Porgramming**: I use creativity and my programming knowledge to create algorithms given many contraints using C++. I have a rating of **1425**.
 
